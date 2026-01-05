@@ -1,3 +1,5 @@
+-- YEAH TELL ME I USED LEAKED ESP SOURCE.. IM LAZY FUCK I DONT WANT TO WRITE MY OWN
+
 local Workspace, RunService, Players, CoreGui, Lighting = cloneref(game:GetService("Workspace")), cloneref(game:GetService("RunService")), cloneref(game:GetService("Players")), game:GetService("CoreGui"), cloneref(game:GetService("Lighting"))
 
 local ESP = {
